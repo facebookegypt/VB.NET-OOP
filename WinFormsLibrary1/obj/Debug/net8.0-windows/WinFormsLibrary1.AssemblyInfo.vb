@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("WinFormsLibrary1"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e12c46695de45cd6dd2025ad5bea5ec20a7bf8e"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47317d93dbbdf7997a509268f87d49fca26f41fe"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("WinFormsLibrary1"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("WinFormsLibrary1"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
